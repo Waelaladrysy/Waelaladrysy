@@ -68,4 +68,4 @@
 ---
 
 > "Engineering is not just about building machines — it's about solving real problems with intelligence."  
-> — Wael Noman
+> — Wail Noman
