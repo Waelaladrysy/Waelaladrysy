@@ -54,8 +54,8 @@
 
 ## 🚀 Featured Projects
 
-### 🔬 [Materials Behavior Analyzer](https://github.com/Waelaladrysy/materials-behavior-analyzer-)
-A machine-learning project that explores material behavior and predicts material failure from mechanical properties, combining my Mechatronics background with data-driven modeling.
+### 🔬 [Materials Behavior Analyzer](https://github.com/Waelaladrysy/materials-behavior-analyzer)
+An educational Random Forest and Streamlit project that explores material-failure classification using a small example dataset, combining my Mechatronics background with machine learning.
 
 **Focus:** Python · Machine Learning · scikit-learn · Streamlit · Engineering Data
 
