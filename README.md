@@ -54,11 +54,6 @@
 
 ## 🚀 Featured Projects
 
-### 🔐 [USB Device Control System](https://github.com/Waelaladrysy/Usb_control)
-A Windows-based USB storage access-control application built with Python. The project includes device monitoring, access-control logic, a graphical interface, and local data management.
-
-**Focus:** Python · Windows Automation · Device Monitoring · SQLite · Desktop GUI
-
 ### 🔬 [Materials Behavior Analyzer](https://github.com/Waelaladrysy/materials-behavior-analyzer-)
 A machine-learning project that explores material behavior and predicts material failure from mechanical properties, combining my Mechatronics background with data-driven modeling.
 
